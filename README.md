@@ -1,7 +1,7 @@
-# VidjayaStiven-IS-Lab1
+# TanumihardjaRafael-IS-Lab1
 Intelligent System laboratory work 1
 
-Виджая Стивен 932001 
+Танумихарджа Рафаэл 932001 
 
 2022
 
